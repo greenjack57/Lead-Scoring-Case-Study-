@@ -1,5 +1,12 @@
 # Lead-Score-Case-Study
 
+![Views](https://visitor-badge.laobi.icu/badge?page_id=greenjack57.Lead-Scoring-Case-Study-)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter%20notebook-100.0%25-blue)
+![Languages](https://img.shields.io/github/languages/count/greenjack57/Lead-Scoring-Case-Study-)
+![Stars](https://img.shields.io/github/stars/greenjack57/Lead-Scoring-Case-Study-)
+![Forks](https://img.shields.io/github/forks/greenjack57/Lead-Scoring-Case-Study-)
+![Pull Requests](https://img.shields.io/github/issues-pr/greenjack57/Lead-Scoring-Case-Study-)
+
 This repository contains a comprehensive analysis and logistic regression model developed for **X Education** to prioritize potential leads based on their likelihood of conversion. The repository includes code for data preprocessing, feature selection, model evaluation, and actionable recommendations for effectively utilizing the model.
 
 ## Repository Structure
