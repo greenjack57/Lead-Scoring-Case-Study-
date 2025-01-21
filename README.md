@@ -1,4 +1,4 @@
-# Lead-Score-Case-Study
+# Lead-Scoring-Case-Study
 
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=greenjack57.Lead-Scoring-Case-Study-)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter%20notebook-100.0%25-blue)
